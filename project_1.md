@@ -1,9 +1,5 @@
-# +++++ PROJECT-1 +++++
+# +++++ PROJECT-2 +++++
 
-### Last Tested
-```
-Date:  07-May-2023
-```
 ## +++++++++++++++++++++++++++ PART-1 ++++++++++++++++++++++++++++
 
 ### Overview of project-1
@@ -19,7 +15,7 @@ Date:  07-May-2023
 
 <br/>
 
-1. **[Install Jenkins & Ansible & Maven ](https://github.com/sunnydevops2022/DevOps/blob/master/ubuntu/devops_real_time_project/project_1/jenkins_ansible_installation_p1.md)**
+1. **[Install Jenkins & Ansible & Maven ](https://github.com/shubhambhurse/installations/jenkins_ansible_installation_p1.md)**
 
 1. **[Install Sonarqube](https://github.com/sunnydevops2022/DevOps/blob/master/ubuntu/devops_real_time_project/project_1/sonarqube_installation_p1.md)**
 
