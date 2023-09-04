@@ -15,7 +15,7 @@
 
 <br/>
 
-1. **[Install Jenkins & Ansible & Maven ](https://github.com/ShubhamBhurse/Installations/jenkins_ansible_installation_p1.md)**
+1. **[Install Jenkins & Ansible & Maven ](https://github.com/ShubhamBhurse/Installations/blob/main/jenkins_ansible_installation_p1.md)**
 
 1. **[Install Sonarqube](https://github.com/sunnydevops2022/DevOps/blob/master/ubuntu/devops_real_time_project/project_1/sonarqube_installation_p1.md)**
 
